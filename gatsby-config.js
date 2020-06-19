@@ -143,6 +143,13 @@ module.exports = {
         trackingId: "UA-38044638-1",
       },
     },
+    {
+      resolve: `@jamesdanylik/gatsby-source-goodreads`,
+      options: {
+        key: `ld4QgDiwcStqlJtVsFjKFA`,
+        id: `46795449`
+      }
+    },
 
   ],
 }

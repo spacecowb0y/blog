@@ -26,11 +26,11 @@ Here is the explanation from the official website:
 >
 > Also? It’s cute as f—.
 
-A perfect excuse, isn’t it? So the project got my attention right away. I cloned the source code and run it from my computer. Besides some troubleshooting installing python dependencies, the process to set up it on OS X and later on Raspbian was pretty smooth.
+A perfect excuse, isn’t it? So the project got my attention right away. I cloned the source code and run it from my computer. Besides some troubleshooting installing python dependencies, the process to set up it on OS X and later on Raspbian was super smooth.
 
 But running it on my laptop I was missing half of the fun. The point of the project is to go outside and give to the Pawnagotchi as many WiFi handshakes to eat as possible. So I orderer two e-Ink displays for the _RPis_ that I already had at home. In the meantime, I reviewed the code and the fundamentals of the AI part of the software 🤓. 
 
-After the displays arrived I was ready to go for a walk around the neighborhood and... _[release the Krakens](https://www.youtube.com/watch?v=gb2zIR2rvRQ)_! Seeing the activity of their active through a screen was sick.
+After the displays arrived I was ready to go for a walk around the neighborhood and... _[release the Krakens](https://www.youtube.com/watch?v=gb2zIR2rvRQ)_! Being able to see the activity of the Machine Learning process in a form of friendly UI was pretty fun.
 
 The next step was trying to crack the handshakes stored on the `/root/handshakes/` folder inside the pwnagotchi’s memory, using some kind of bruteforce attack. I found [this tutorial](https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46) while ago that explained how to use Aircrack-ng/Hashcat and some third-party services like [GPUHASH.me](https://gpuhash.me/) or [OnlineHashCrack](https://www.onlinehashcrack.com/). Without making any progress I gave up.
 
@@ -38,11 +38,10 @@ The next step was trying to crack the handshakes stored on the `/root/handshakes
 
 By the end of December, I was checking on Facebook market looking for a new place to live with Melania. Not too excited about the options we had, I sent a request to a guy that was renting a cozy apartment located in Litcherfelde. He immediately answered and booked me an appointment for Sunday afternoon, I was the first on the list. 
 
-We went there with Melush, met the owner, and after a quick check, the aparment was everything we needed it. While discussing about the details of contract, we talked a little bit about us, and that’s when we found we both worked on IT.
+We went there with Melush, met the owner, and after a quick check, the aparment was everything we needed it. While discussing about the details of contract, we talked a little bit about us, and that’s when we found we both worked on IT. I had my Pawnagotchi’s with me, so I thought it would be a good idea to show him my toys. After a few more minutes of talking about nerdy stuff, he told me they were looking for IoT Developers to work on a special project they had, and if I was interested he could introduce me with the team and move forward with the hiring process.
 
-Without knowing it, that they I went back home with a new place to live and a new job!
+Without knowing it yet, that day I went back home with a new place to live and a new job!
 
 ---
 
 You can learn more about [how Pwnagotchi works](https://pwnagotchi.ai/intro/#how-does-pwnagotchi-work) and why it [eats WPA handshakes](https://pwnagotchi.ai/intro/#wifi-handshakes-101) in the [Introduction doc](https://pwnagotchi.ai/intro/). You can also read about [the story of the project](https://www.evilsocket.net/2019/10/19/Weaponizing-and-Gamifying-AI-for-WiFi-Hacking-Presenting-Pwnagotchi-1-0-0/) on their website.
-
