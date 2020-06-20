@@ -3,11 +3,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  position: fixed;
   padding: 20px;
-  top: 0;
   width: 100%;
-  z-index: 9999;
 
   :global .dark-theme :local & {
     background: #252627;
@@ -66,4 +63,15 @@
   0% { opacity: 0; }
   50% { opacity: 1; }
   100% { opacity: 0; }
+}
+
+.blacklivesmatter {
+  background: #252627;
+  color: #FAFAFA;
+  width: 100%;
+  padding: 1em 2em;
+}
+
+.blacklivesmatter a {
+  color: pink;
 }

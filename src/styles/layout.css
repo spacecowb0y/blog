@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  padding: 40px 0 0;
+  padding: 0;
   font-family: -apple-system, BlinkMacSystemFont,  Helvetica, Arial, sans-serif;
   font-size: 1rem;
   font-weight: normal;
@@ -29,7 +29,6 @@ body {
 
   @media (--phone) {
     font-size: 1rem;
-    padding: 70px 0 0;
   }
 
   &.dark-theme {
