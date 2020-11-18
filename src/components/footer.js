@@ -20,7 +20,7 @@ const Footer = ({ copyrights }) => (
           <a href="https://github.com/panr/gatsby-starter-hello-friend">
             Hello Friend Theme
           </a>
-          , and hosted on <a href="https://zeit.co/">Zeit</a>.
+          , and hosted on <a href="https://vercel.com/">Vercel</a>.
         </p>
       </>
     )}

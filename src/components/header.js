@@ -46,7 +46,7 @@ const Header = props => {
         />
       </Helmet>
       <div className={style.blacklivesmatter}>
-        ✊🏾 <a href="https://blacklivesmatter.carrd.co/">Black Lives Matter</a> – Educate yourself about systemic racism and how to help black people in your community.
+        ✊🏾 <a href="https://blacklivesmatter.carrd.co/" target="_blank" rel="noopener">Black Lives Matter</a> – Educate yourself about systemic racism and how to help black people in your community.
       </div>
       <header className={style.header}>
         <div className={style.inner}>

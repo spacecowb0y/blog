@@ -70,6 +70,12 @@
   color: #FAFAFA;
   width: 100%;
   padding: 1em 2em;
+
+   :global .dark-theme :local & {
+    background: #FAFAFA;
+    color: #252627;
+  }
+
 }
 
 .blacklivesmatter a {
